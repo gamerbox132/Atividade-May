@@ -1,0 +1,2 @@
+receita:
+    Bolo de cenoura: 180 graus por 40 minutos
