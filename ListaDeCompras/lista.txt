@@ -1,6 +1,6 @@
 Lista de Compras do Mês:
  arroz; 
  feijão;
-macarrão;
-café;
-açúcar;
+ farinha;
+ café;
+ açúcar.
