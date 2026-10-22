@@ -1,0 +1,4 @@
+cardapio do restaurante:
+    churrasco;
+    lasanha;
+    panqueca.
